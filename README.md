@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working for me.
 - 🌱 I’m currently learning FLUTTER/DART
-- 👯 I’m looking to collaborate on ...
 - 🤔 I'm planning to be a flutter developer(fullstack)
 - 💬 Looking for oportunities with flutter developer (Junior)
 - 📫 How to reach me: sinigagliafernando@gmail.com
