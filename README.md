@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ⚡ I'm flutter lover
 - 🔭 I’m currently working for me.
 - 🌱 I’m currently learning FLUTTER/DART
 - 🤔 I'm planning to be a flutter developer(fullstack)
