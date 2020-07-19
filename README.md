@@ -1,9 +1,9 @@
 ### Hi there! Welcome to my Profile.👋
-- ⚡ I'm flutter lover, mobile development lover
+- ⚡ I'm flutter lover, mobile development lover.
 - 🔭 I’m currently working for me.
 - 🌱 I’m currently learning FLUTTER/DART
-- 🤔 I'm planning to be a flutter developer(fullstack), I can work with react.js and react-native
-- 💬 Looking for oportunities with flutter developer (Junior) and react.js/react-native
+- 🤔 I'm planning to be a flutter developer(fullstack), I can work with react.js and react-native.
+- 💬 Looking for oportunities with flutter developer (Junior) and react.js and react-native.
 - 📫 How to reach me: sinigagliafernando@gmail.com
 
 
