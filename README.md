@@ -5,7 +5,7 @@
 - 🤔 I'm planning to be a flutter developer(fullstack), I can work with react.js and react-native(not working with react in this moment).
 - 💬 Looking for oportunities with flutter developer (Junior or Trainee).
 - 📫 How to reach me: sinigagliafernando@gmail.com
-Skills: FLUTTER/ANDROID/NODEJS/SPRING/JAVA/JS/REACT(basic)
+- Skills: FLUTTER/ANDROID/NODEJS/SPRING/JAVA/JS/REACT(basic)
 
 <!--
 **FernandoSini/FernandoSini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
