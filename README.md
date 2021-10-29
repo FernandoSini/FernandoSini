@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fernandosini)]<!--(https://github.com/ryo-ma/github-profile-trophy)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=fernandosini)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosini)]<!--(https://github.com/anuraghazra/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosini)<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandosini&show_icons=true&count_private=true)  
 
