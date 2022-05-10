@@ -2,7 +2,7 @@
 - ⚡ I'm flutter lover, mobile development lover.
 - 🔭 I’m currently working for me.
 - 🌱 I’m currently learning FLUTTER/DART
-- 🤔 I'm planning to be a flutter developer(fullstack), I can work with react.js and react-native(not working with react in this moment).
+- 🤔 I'm planning to be a flutter developer(fullstack).
 - 💬 Looking for oportunities with flutter developer or Golang.
 - 📫 How to reach me: sinigagliafernando@gmail.com
 - Skills: GOLANG/FLUTTER/ANDROID/NODEJS/SPRING/JAVA/
