@@ -6,7 +6,7 @@
 - 🤔 I'm planning to be a flutter developer(fullstack).
 - 💬 Looking for oportunities with flutter developer or Golang.
 - 📫 How to reach me: sinigagliafernando@gmail.com
-- Skills: GOLANG/FLUTTER/ANDROID/NODEJS/SPRING/JAVA/
+- Skills: GOLANG/FLUTTER/ANDROID(JAVA OR KOTLIN)/NODEJS/SPRING/JAVA/
 <!--
 **FernandoSini/FernandoSini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=fernandosini)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
