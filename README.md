@@ -1,12 +1,12 @@
 ### Hi there! Welcome to my Profile.👋
 - ⚡ I'm flutter lover, mobile development lover.
 - 🔭 I’m currently working for me.
-- 🌱 I’m currently learning FLUTTER/DART
-- 🤔 Flutter Developer
-- 🤔 I'm planning to be a flutter developer(fullstack).
-- 💬 Looking for oportunities with flutter developer or Golang.
+- 🌱 I’m  experienced in FLUTTER/DART/KOTLIN/KMM
+- 🤔 Flutter Developer/Kotlin Multiplatform Developer
+- 🤔 I'm Mobile Engineer.
+- 💬 Looking for oportunities with Kotlin Multiplatform/Flutter.
 - 📫 How to reach me: sinigagliafernando@gmail.com
-- Skills: GOLANG/FLUTTER/ANDROID(JAVA OR KOTLIN)/NODEJS/SPRING/JAVA/
+- Skills: GOLANG/FLUTTER/ANDROID(JAVA OR KOTLIN)/NODEJS/SPRING/JAVA/KOTLIN MULTIPLATFORM
 <!--
 **FernandoSini/FernandoSini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
