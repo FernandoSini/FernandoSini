@@ -1,10 +1,10 @@
 ### Hi there! Welcome to my Profile.👋
-- ⚡ I'm flutter lover, mobile development lover.
+- ⚡ I'm mobile developer, mobile development.
 - 🔭 I’m currently working for me.
-- 🌱 I’m  experienced in FLUTTER/DART/KOTLIN/KMM
+- 🌱 I’m  experienced in FLUTTER/DART/KOTLIN/KOTLIN MULTIPLATFORM
 - 🤔 Flutter Developer/Kotlin Multiplatform Developer
 - 🤔 I'm Mobile Engineer.
-- 💬 Looking for oportunities with Kotlin Multiplatform/Flutter.
+- 💬 Looking for oportunities with Kotlin Multiplatform.
 - 📫 How to reach me: sinigagliafernando@gmail.com
 - Skills: GOLANG/FLUTTER/ANDROID(JAVA OR KOTLIN)/NODEJS/SPRING/JAVA/KOTLIN MULTIPLATFORM
 <!--
